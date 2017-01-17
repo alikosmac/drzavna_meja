@@ -1,0 +1,31 @@
+body {
+    background-color: #ADD8E6;
+}
+
+h1 {
+    font-size:52px;
+}
+
+.container {
+    width:900px;
+    position: relative;
+}
+
+.center {
+    text-align:center;
+}
+
+input {
+    border-color:#000 !important;
+}
+
+label {
+    color:#000 !important;
+}
+
+:-moz-placeholder {
+    color: #666;
+}
+*::-moz-placeholder {
+    color: #666;
+}
